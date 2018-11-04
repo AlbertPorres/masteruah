@@ -1,9 +1,9 @@
 ﻿# masteruah
 Repositorio para las prácticas Máster
 
-##Primer projecto Git
+## Primer projecto Git
 
-###Hospedado en GitHub
+### Hospedado en GitHub
 
 
 Mis datos personales son:
