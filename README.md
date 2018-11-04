@@ -7,13 +7,13 @@ Repositorio para las prácticas Máster
 
 
 Mis datos personales son:
-*Albert Porres
-*Estudiante Máster Blockchain
-*Trabajo en finanzas
-*Mi pasión es la fotografía
-*Mis sitemas operativos favoritos son MacOs Linux ~~y Windows~~
-*Mi cita favorita: >"No pienses en problemas, piensa en soluciones"
-*Mi dirección de [linkedin](www.linkedin.com/in/albert-porres-valles)
++Albert Porres
++Estudiante Máster Blockchain
++Trabajo en finanzas
++Mi pasión es la fotografía
++Mis sitemas operativos favoritos son MacOs Linux ~~y Windows~~
++Mi cita favorita: >"No pienses en problemas, piensa en soluciones"
++Mi dirección de [linkedin](https://www.linkedin.com/in/albert-porres-valles)
 
 Con este proyecto pretendo demostrar:
 1. Conocimientos de git
