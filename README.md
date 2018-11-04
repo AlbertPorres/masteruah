@@ -11,7 +11,7 @@ Mis datos personales son:
 + Estudiante Máster Blockchain
 + Trabajo en finanzas
 + Mi pasión es la fotografía
-+ Mis sitemas operativos favoritos son MacOs Linux ~~y Windows~~
++ Mis sistemas operativos favoritos son MacOs Linux ~~y Windows~~
 + Mi cita favorita: > "No pienses en problemas, piensa en soluciones"
 + Mi dirección de [linkedin](https://www.linkedin.com/in/albert-porres-valles)
 
