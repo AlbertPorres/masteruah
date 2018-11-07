@@ -35,4 +35,15 @@ Esta es la puntuación que otorgo a los paises que he visitado recientemente:
 | Indonesia | 2018 | 6 |
 | España | 2018 | 10 |
 
+Actualización 07/11/2018, tabla compañeros del máster:
+
+| Nombre | GitHub user |
+| ------ | -----: |
+| Julio Moya | jcmoya |
+| Adrian Rodríguez | adrirod |
+| César Casasola | cesar-casasola |
+| Javier Ercilla | xvi82 |
+| Gonzalo Díaz | gonzalodt1 |
+| Jesús Alberto | lealp22 |
+| Jose Molina | Moliholy |
 
